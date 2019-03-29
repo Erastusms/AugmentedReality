@@ -1,0 +1,297 @@
+#VRML V2.0 utf8
+
+Background {
+	skyColor [
+	1 1 1
+	0 1 0
+	0 0 0
+	]
+	skyAngle [ 1.57 3.14]
+}
+
+#kotakbawah1
+Transform {
+	translation 0 -2 0
+	
+	children [
+Shape {
+appearance Appearance {
+     material Material {
+       diffuseColor 0.2 0.2 0.2
+    }
+  }
+  geometry Box { 
+     size 6 0.2 6
+  }
+}
+]
+}
+#kotakbawah2
+Transform {
+	translation 0 -1.9 0
+	
+	children [
+Shape {
+appearance Appearance {
+     material Material {
+       diffuseColor 0.5 0.5 0.5
+    }
+  }
+  geometry Box { 
+     size 5.5 0.2 5.5
+  }
+}
+]
+}
+#kotakbawah3
+Transform {
+	translation 0 -1.8 0
+	
+	children [
+Shape {
+appearance Appearance {
+     material Material {
+       diffuseColor 1 1 1
+    }
+  }
+  geometry Box { 
+     size 5 0.2 5
+  }
+}
+]
+}
+#box1
+Transform {
+	translation 0 -1 0
+	
+	children [
+Shape {
+appearance Appearance {
+     material Material {
+       diffuseColor 1 0 0
+    }
+  }
+  geometry Box { 
+     size 4 1.5 4
+  }
+}
+]
+}
+
+#kotakbawah4
+Transform {
+	translation 0 -0.3 0
+	
+	children [
+Shape {
+appearance Appearance {
+     material Material {
+       diffuseColor 0.2 0.2 0.2
+    }
+  }
+  geometry Box { 
+     size 4.8 0.2 4.8
+  }
+}
+]
+}
+#kotakbawah5
+Transform {
+	translation 0 -0.2 0
+	
+	children [
+Shape {
+appearance Appearance {
+     material Material {
+       diffuseColor 0.5 0.5 0.5
+    }
+  }
+  geometry Box { 
+     size 4.3 0.2 4.3
+  }
+}
+]
+}
+
+#kotakbawah6
+Transform {
+	translation 0 -0.1 0
+	
+	children [
+Shape {
+appearance Appearance {
+     material Material {
+       diffuseColor 1 1 1
+    }
+  }
+  geometry Box { 
+     size 3.8 0.2 3.8
+  }
+}
+]
+}
+
+#box2
+Transform {
+	translation 0 0.7 0
+	
+	children [
+Shape {
+appearance Appearance {
+     material Material {
+       diffuseColor 1 0 0
+    }
+  }
+  geometry Box { 
+     size 2.8 1.5 2.8
+  }
+}
+]
+}
+
+#kotakatas6
+Transform {
+	translation 0 1.4 0
+	
+	children [
+Shape {
+appearance Appearance {
+     material Material {
+       diffuseColor 0.2 0.2 0.2
+    }
+  }
+  geometry Box { 
+     size 3.6 0.2 3.6
+  }
+}
+]
+}
+
+#kotakatas5
+Transform {
+	translation 0 1.5 0
+	
+	children [
+Shape {
+appearance Appearance {
+     material Material {
+       diffuseColor 0.5 0.5 0.5
+    }
+  }
+  geometry Box { 
+     size 3.1 0.2 3.1
+  }
+}
+]
+}
+
+#kotakatas4
+Transform {
+	translation 0 1.6 0
+	
+	children [
+Shape {
+appearance Appearance {
+     material Material {
+       diffuseColor 1 1 1
+    }
+  }
+  geometry Box { 
+     size 2.6 0.2 2.6
+  }
+}
+]
+}
+
+#box3
+Transform {
+	translation 0 2.4 0
+	
+	children [
+Shape {
+appearance Appearance {
+     material Material {
+       diffuseColor 1 0 0
+    }
+  }
+  geometry Box { 
+     size 1.6 1.5 1.6
+  }
+}
+]
+}
+
+#kotakatas3
+Transform {
+	translation 0 3.1 0
+	
+	children [
+Shape {
+appearance Appearance {
+     material Material {
+       diffuseColor 0.2 0.2 0.2
+    }
+  }
+  geometry Box { 
+     size 2.4 0.2 2.4
+  }
+}
+]
+}
+
+#kotakatas2
+Transform {
+	translation 0 3.2 0
+	
+	children [
+Shape {
+appearance Appearance {
+     material Material {
+       diffuseColor 0.5 0.5 0.5
+    }
+  }
+  geometry Box { 
+     size 2.2 0.2 2.2
+  }
+}
+]
+}
+
+#kotakatas1
+Transform {
+	translation 0 3.3 0
+	
+	children [
+Shape {
+appearance Appearance {
+     material Material {
+       diffuseColor 1 1 1
+    }
+  }
+  geometry Box { 
+     size 2 0.2 2
+  }
+}
+]
+}
+
+#kerucutatas
+Transform {
+	translation 0 4 0
+	
+	children [
+Shape {
+
+appearance Appearance {
+
+material Material {
+	diffuseColor 1 0 0
+}
+}
+geometry Cone {
+bottomRadius 0.5
+height 1.5
+}
+}
+]
+}
